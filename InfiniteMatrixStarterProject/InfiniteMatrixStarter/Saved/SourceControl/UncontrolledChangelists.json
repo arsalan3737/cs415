@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/aweso/OneDrive/Documents/School/cs415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/aweso/OneDrive/Documents/School/cs415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/Users/aweso/OneDrive/Documents/School/cs415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Users/aweso/OneDrive/Documents/School/cs415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/aweso/OneDrive/Documents/School/cs415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"C:/Users/aweso/OneDrive/Documents/School/cs415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/Health.uasset",
+				"C:/Users/aweso/OneDrive/Documents/School/cs415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/Score.uasset",
+				"C:/Users/aweso/OneDrive/Documents/School/cs415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/HealthPack.uasset",
+				"C:/Users/aweso/OneDrive/Documents/School/cs415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/Enemy.uasset",
+				"C:/Users/aweso/OneDrive/Documents/School/cs415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/Bullet.uasset",
+				"C:/Users/aweso/OneDrive/Documents/School/cs415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Textures/m_health.uasset",
+				"C:/Users/aweso/OneDrive/Documents/School/cs415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Textures/m_enemy.uasset",
+				"C:/Users/aweso/OneDrive/Documents/School/cs415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Textures/m_head.uasset",
+				"D:/UE_5.5/Engine/Content/BasicShapes/Cube.uasset"
+			]
+		}
+	]
+}
